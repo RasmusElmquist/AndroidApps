@@ -13,7 +13,7 @@
         PhoneGap Team , anvendt af Lone Osterlund
     </author>
 	
-	<content src="hovedregning.html" />
+	<content src="MainHtml.html" />
     <content src="index.html" />
 
     
